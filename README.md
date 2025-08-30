@@ -1,3 +1,4 @@
+TodoFlow Frontend is a responsive web client built with React, Vite, TypeScript, and Tailwind CSS. It provides users with a smooth and modern interface to manage tasks efficiently. Features include authentication pages (login, register, forgot password), task creation/editing, category filters, list/grid views, and a dashboard with live stats. Axios and React Router are used for API integration and navigation. The frontend is optimized for usability with a clean design, quick filtering, and error handling to ensure a seamless user experience.
 # 🎨 TodoFlow Frontend (React + Vite + Tailwind)
 
 This is the **frontend** of the TodoFlow full-stack application.  
